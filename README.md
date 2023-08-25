@@ -1,1 +1,2 @@
 # Customer_Risk_Analysis
+Customer Risk Analysis is the process of assessing and evaluating the potential risks associated with engaging with and serving specific customers or clients. This analysis is commonly conducted by businesses, financial institutions, and service providers to make informed decisions about whether to establish or continue a business relationship with a particular customer. The goal is to identify potential risks that could impact the organization's financial stability, reputation, and regulatory compliance.
